@@ -1,0 +1,6 @@
+[submodule "nSevaigal"]
+	path = nSevaigal
+	url = https://github.com/dineshArchimedis/johnson.git
+[submodule "newTask"]
+	path = newTask
+	url = https://github.com/dineshArchimedis/johnson.git
